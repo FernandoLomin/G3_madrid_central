@@ -16,4 +16,4 @@ INSERT INTO magnitude VALUES (38, 'Paraxileno', 'PXY', 'µg/m3');
 INSERT INTO magnitude VALUES (39, 'Ortoxileno', 'OXY', 'µg/m3');
 INSERT INTO magnitude VALUES (42, 'Hidrocarburos totales (hexano)', 'TCH', 'µg/m3');
 INSERT INTO magnitude VALUES (43, 'Metano', 'CH4', 'µg/m3');
-INSERT INTO magnitude VALUES (44, 'Hidrocarburos no metánicos (hexano)', 'NMHC', 'µg/m3');
+INSERT INTO magnitude VALUES (44, 'Hidrocarburos no metánicos (hexano)', 'NMHC', 'µg/m3'); 
